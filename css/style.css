@@ -1,0 +1,90 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(70, 70, 70);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(70, 70, 70);
+}
+
+h3{
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+body header p{
+    background-color: rgb(228, 223, 223);
+    text-align: center;
+    padding: 5px;
+    font-weight: 300;
+}
+
+.header div nav ul li{
+    margin-left: 10px;
+}
+
+.header div div ul li{
+    margin-right: 10px;
+}
+
+.navegacion ul li{
+    margin: 0px 10px;
+}
+
+.boton p{
+    background-color: rgb(228, 223, 223);
+    padding: 10px 30px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.buzo_x h1, .buzo_x h2, .buzo_x h5{
+    font-weight: 300; 
+}
+
+.buzo_x h4{
+    font-weight: 300;
+    color: rgba(70, 70, 70, 0.5);
+}
+
+.lista_talles li{
+    border: rgb(70, 70, 70, 0.2) solid 2px;
+    justify-content: space-between;
+    padding: 0px 40px;
+}
+
+.lista_talles, .lista_cantidad{
+    padding: 0;
+    justify-content: space-between;
+}
+
+section div i{
+    font-size: 30px;
+    margin-right: 15px;
+    color: rgba(70, 70, 70, 0.5)
+}
+
+section div div p{
+    color: rgba(70, 70, 70, 0.5)
+}
+
+footer{
+    background-color: rgb(228, 223, 223);
+}
+
+footer div div ul li{
+    padding-right: 20px;
+}
+
+footer div div ul li i{
+    font-size: 20px;
+}
+
+
+
+
+
